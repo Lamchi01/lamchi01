@@ -15,6 +15,6 @@ Header
 ![Maven](https://img.shields.io/badge/Maven-151719?style=for-the-badge&logo=maven)
 ![Postman](https://img.shields.io/badge/Postman-151719?style=for-the-badge&logo=postman)
 
-
-
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-151719?style=for-the-badge&logo=telegram)](https://t.me/lamchi01)
+[![VKontakte](https://img.shields.io/badge/VKontakte-151719?style=for-the-badge&logo=VK)](https://vk.me/lamchi01)
