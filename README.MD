@@ -1,6 +1,4 @@
-Header
-
-## Я начинающий разработчик WEB-приложений
+## Начинающий разработчик WEB-приложений
 
 ### Languages And Tools
 ![Java](https://img.shields.io/badge/Java-151719?style=for-the-badge&logo=Java)
